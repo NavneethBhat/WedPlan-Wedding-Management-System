@@ -1,4 +1,4 @@
-#WedPlan - Wedding Management System
+WedPlan - Wedding Management System
 
 WedPlan is a comprehensive wedding management system designed to streamline the planning process for weddings. The platform provides a centralized hub where users can explore, customize, and book wedding services, making the process hassle-free and efficient. The project is developed using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap, with XAMPP as the backend server environment.
 
